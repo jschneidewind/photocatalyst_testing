@@ -24,3 +24,7 @@ This subdirectory contains calibration and experimental data files with hydrogen
 ### H2O2_Data_Analysis
 
 This subdirectory contains calibration and experimental data files for H2O2 quantification using the DPD-POD assay (the experimental values are absorbance @ 551 nm). Furthermore, it contains a Python script to calculate the linear calibration function and to calculate the sample H2O2 concentration (ing mg(H2O2)/L).
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
